@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MeisamMahmoodi
 - 👀 I’m interested in Web Developing and IOS APP Developing
 - 🌱 I’m currently learning HTML, CSS and JavaScript 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: meisammahmoodi08@gmail.com
 
 <!---
